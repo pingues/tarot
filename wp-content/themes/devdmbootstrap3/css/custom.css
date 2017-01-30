@@ -195,27 +195,39 @@ font-size: 19px;
 
 
 .home {
-    color: black;
+    /*color: white;
+    text-transform: uppercase;*/
 }
 
 a.home {
     text-decoration: none;
 }
 
+
 .homeTitre {
     color: white;
-	text-transform: uppercase;
+    text-transform: uppercase;
 
 }
 
 
+.entete{
+	background-color:#282e20;
+	background-image: url(http://127.0.0.1/tarot/wp-content/uploads/2017/01/banniere-tarot-des-dieux.jpg);
+    	background-repeat: no-repeat;
+}
 
 
+.pubFbkBig{
+	font-family: 'Satisfy', 
+	cursive; font-size:200%; 
+	background-color: yellow;
+}
 
-
-
-
-
+.pubFbk{
+	font-family: 'Satisfy', 
+	cursive; font-size:150%;
+}
 
 
 
