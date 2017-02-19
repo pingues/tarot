@@ -1,0 +1,238 @@
+.copyright {
+    text-align: right;
+    font-size: 80%;
+    -webkit-margin-after: 0.83em;
+}
+
+a.souligne {
+    border-bottom: 1px dotted;
+}
+
+ul#menu-menu-1 {
+    font-family: oswald;
+    font-size: 150%;
+}
+
+a##menu-menu-1 {
+    text-decoration:none;
+}
+
+.page-header {
+    border-bottom: none;
+}
+
+.aEffacer{
+	display:none;
+}
+
+.panel-footer {
+    text-align: center;
+}
+
+/*.embed-responsive-4by3 {
+    padding-bottom: 50%;
+}*/
+
+panel-footer {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Oswald';
+    color: #393b3d;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+    line-height: 130%;
+}
+
+.panel-footer {
+    background-color: white;
+}
+
+.panel-default{
+    border: 4px black;
+    padding: 0 10px;
+    margin: 30px 10px 30px 0;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 3px 3px 6px 2px black;
+    -moz-box-shadow: 3px 3px 6px 2px black;
+    -webkit-box-shadow: 3px 3px 6px black;
+}
+
+.panel-footer > a {
+    color: black;
+    font-family: 'Port Lligat Slab', serif;
+font-size: large;
+font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+    font-size: 25px;
+}
+
+
+.navbar-default {
+    background-color: white; 
+    border-bottom: 5px solid #d5d7db;
+	border-top:none;
+}
+
+
+h2 {
+    font-family: Oswald;
+    font-size: 30px;
+        color: black;
+}
+
+ul.related_post li a {
+font-family: oswald;
+    text-transform: uppercase;
+    color: #060a10;
+}
+
+div.zem_rp_content {
+    margin-top: 20px;
+}
+
+.widget_bootstrap-widget-menu > h3 {
+    font-family: 'Oswald';
+    color: #393b3d;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+    border-bottom: 5px solid #c03;
+    width: 100%;
+    display: block;
+    padding-bottom:9px;
+}
+
+.menu-item-object-post > a {
+    position: relative;
+    display: block;
+  
+    font-family: 'Oswald';
+    color: #393b3d;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    padding: 0px 5px;
+}
+
+hr.divider {
+    background-color: #d31d1d;
+    height: 5px!important;
+    margin-top: 5px;
+    width: 100%;
+}
+
+h3 {
+	font-family: 'Oswald';
+    color: #060a10;
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+        line-height: 25px;
+}
+
+h3 > a {
+    color: black;
+    text-decoration: none;
+}
+
+h3 > a:hover {
+    color: #194e8e !important;
+    text-decoration: none;
+}
+
+h3 > a:visited {
+    color: #898989 !important;
+    text-decoration: none;
+}
+.article-content {
+    border-top: 1px solid #d5d7db;
+    padding-bottom: 30px;
+}
+
+.accueil{
+    color: #393b3d;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+    border-bottom: 5px solid #c03;
+    width: 100%;
+    display: block;
+        padding-bottom:9px;
+
+}
+
+
+.pAccueil{
+   color: #393b3d;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 100;
+    font-family: 'Oswald';
+        letter-spacing: normal;
+}
+
+.nav > li > a {
+font-size: 19px;
+    color: #393b3d;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+
+
+.home {
+    color: black;
+}
+
+a.home {
+    text-decoration: none;
+}
+
+.homeTitre {
+    color: white;
+	text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px)
+.container {
+    width: 95%;
+}
+
+
+/* facebook comment
+ * element.style {
+
+    font-family: oswald;
+    color: #393b3d;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+} */
